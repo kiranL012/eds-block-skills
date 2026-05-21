@@ -4,7 +4,7 @@
   "description": "CLI scaffolder for AEM Edge Delivery Services blocks",
   "license": "MIT",
   "bin": {
-    "eds-blocks": "./bin/eds-blocks-skills.js"
+    "eds-blocks": "bin/eds-blocks-skills.js"
   },
   "main": "src/index.js",
   "files": [
