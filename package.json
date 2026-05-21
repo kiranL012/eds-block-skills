@@ -1,0 +1,29 @@
+{
+  "name": "eds-blocks-skills",
+  "version": "1.0.0",
+  "description": "CLI scaffolder for AEM Edge Delivery Services blocks",
+  "license": "MIT",
+  "bin": {
+    "eds-blocks": "./bin/eds-blocks-skills.js"
+  },
+  "main": "src/index.js",
+  "files": [
+    "bin/",
+    "src/"
+  ],
+  "scripts": {
+    "start": "node bin/eds-blocks-skills.js create"
+  },
+  "keywords": [
+    "aem",
+    "eds",
+    "edge-delivery-services",
+    "franklin",
+    "blocks",
+    "scaffold",
+    "cli"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
